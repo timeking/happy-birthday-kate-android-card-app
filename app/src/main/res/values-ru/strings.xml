@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Открытка Кате</string>
+    <string name="greet">С днём рождения, Катя!</string>
+    <string name="greet_from">От Ильи Игоревича</string>
+</resources>
